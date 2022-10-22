@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShabanaNaik
 - 👀 I’m interested in Learning about any Tech field as all are equally Amazing!
 - 🌱 I’m currently learning Web Development
-- 💞️ I'm also working on my self-care
+- 💞️ I'm also working on self-care
 - 📫 You can reach me through e-mail:shabanaforwork@gmail.com 
 
 <!---
